@@ -5,7 +5,7 @@ How to get access
 
 1. Send command /admin to the Telegram bot  @cs_games_platform_bot
 
-IMG - картинка
+![Описание изображения](game&iap_managment/img/1.png)
 
 2. You will get a link to the admin dashboard where you can administrate your games
 
@@ -13,21 +13,21 @@ How to add, edit, or remove items in-game shop
 
 1. Select one of your games and click the store icon
 
-IMG - картинка
+![Описание изображения](game&iap_managment/img/2.png)
 
 2. Now you can have access to change items, their description, and price in Telegram stars
 
-IMG - картинка
+![Описание изображения](game&iap_managment/img/3.png)
 
 Change game configuration
 
 Change supported devices and supported screen formats
 
-IMG - картинка
+![Описание изображения](game&iap_managment/img/4.png)
 
 2. Game name, Game description, Colors, Logo,
 
-IMG - картинка
+![Описание изображения](game&iap_managment/img/5.png)
 
 How to use Shop API
 
@@ -99,10 +99,10 @@ if (result is { IsSuccessful: true })
 
 After player will see modal window:
 
-IMG - картинка
+![Описание изображения](game&iap_managment/img/6.png)
 
 If a user doesn't have enough balance, a top-up popup will be shown
 
-IMG - картинка
+![Описание изображения](game&iap_managment/img/7.png)
 
 If the player confirms a purchase, after all, you will get the response IsSuccessful = true

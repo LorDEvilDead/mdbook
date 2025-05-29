@@ -1,9 +1,9 @@
 # Summary
 
-- [Introduction](src/introduction.md)
-  - [Requirments](src/chapter1/requirments.md)
-  - [Unity Games](src/chapter1/unity_games.md)
-  - [JavaScript Games](src/chapter2/javascript_games.md)
-  - [Persistent Game state](src/chapter1/javascript_games.md)
-  - [Game & IAP Managment](src/chapter1/game&iapmanagment.md)
-  - [Upload game](src/chapter2/upload_game.md)
+- [Introduction](introduction.md)
+- [Requirments](requirments/requirments.md)
+- [Unity Games](unity_games/unity_games.md)
+- [JavaScript Games](javascript_games/javascript_games.md)
+- [Persistent Game state](persistent_game_state/persistent_game_state.md)
+- [Game & IAP Managment](game&iap_managment/game&iapmanagment.md)
+- [Upload game](upload_game/upload_game.md) 

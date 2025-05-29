@@ -24,14 +24,15 @@ Safe Area
 A Safe Area in mobile design refers to the portion of the screen where essential UI elements should be placed to ensure they are not obscured by notches, rounded corners, or system navigation bars. 
 Telegram has mostly the same safe area that we can see in native mobile apps and simulators. For example, Unity Editor has an embedded Simulator:
 
-IMG - картинка
+![Описание изображения](requirments/img/1.png)
+
+![Описание изображения](requirments/img/2.png)
 
 UI in games needs to be updated according to these references
 Startup configuration
 However, if you think that updating the game's interface is not rational in terms of time costs, you can disable full-screen mode in startupConfig.
 You can also set the initial position of the overlay on the screen in it.
 startupConfig can be modified either through the index.html file of the unity-web-template or js-web-template
-
 ...
 window.startupConfig = {
  isFullscreen: false,
@@ -39,4 +40,4 @@ window.startupConfig = {
 }
 ...
 
-IMG - картинка
+![Описание изображения](requirments/img/3.png)

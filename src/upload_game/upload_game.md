@@ -6,12 +6,12 @@ How to upload game to platform
 
 1. You will have access to the GitHub repository for the game:
 
-IMG - картинка
+![Описание изображения](upload_game/img/1.png)
 
 2. Push your build files into /public/ directory
 
-IMG - картинка
+![Описание изображения](upload_game/img/2.png)
 
 3. After a few minutes your game can be accessed in the game launcher. 
 
-IMG - картинка
+![Описание изображения](upload_game/img/3.png)
