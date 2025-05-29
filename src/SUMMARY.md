@@ -6,4 +6,4 @@
 - [JavaScript Games](javascript_games/javascript_games.md)
 - [Persistent Game state](persistent_game_state/persistent_game_state.md)
 - [Game & IAP Managment](game&iap_managment/game&iapmanagment.md)
-- [Upload game](upload_game.md) 
+- [Upload game](upload_game/upload_game.md) 
